@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.env.*
+.vscode/
+.DS_Store
+pytest_cache/
+.coverage
+results/*.npz
+# Keep small PNG/CSV results committed
+results/*.png
+results/*.csv
