@@ -1,6 +1,6 @@
 # QAOA for MaxCut — Research Prototype
 
-[![CI](https://github.com/your-username/qaoa-maxcut-warmstart/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/qaoa-maxcut-warmstart/actions)  [![Python](https://img.shields.io/pypi/pyversions/qiskit?color=blue)](https://www.python.org/)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![CI](https://github.com/baysquire/qaoa-maxcut-warmstart/actions/workflows/ci.yml/badge.svg)](https://github.com/baysquire/qaoa-maxcut-warmstart/actions)  [![Python](https://img.shields.io/pypi/pyversions/qiskit?color=blue)](https://www.python.org/)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 A concise research-ready prototype implementing QAOA for the MaxCut problem with a classical warm-start. The repository is small by design (focus: clarity, reproducibility, and research-ready code) and includes scripts to compare baseline QAOA and warm-start variants on small graphs using Qiskit Aer's statevector simulator.
 
